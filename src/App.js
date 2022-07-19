@@ -12,10 +12,6 @@ function App() {
     console.log('Reiniciar');
   }
 
-
-
-
-
   return (
     <div className="App">
       <div className="freecodecamp-logo-contenedor">
@@ -38,4 +34,8 @@ function App() {
 export default App;
 
 
+
+
+
+//3:20:00 ASIGNAMOS FUNCIONES A LOS PROPS
 //3:24:24 CREANDO ESTILOS PARA EL BOTON
